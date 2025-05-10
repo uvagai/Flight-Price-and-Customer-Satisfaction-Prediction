@@ -67,8 +67,8 @@ Built a machine learning classifier to predict airline customer satisfaction bas
 ---
 
 ## Dataset Links:
-- **Flight Price Dataset**: [Flight_Price.csv](link-to-dataset)
-- **Customer Satisfaction Dataset**: [Passenger_Satisfaction.csv](link-to-dataset)
+- **Flight Price Dataset**
+- **Customer Satisfaction Dataset**
 
 ---
 
